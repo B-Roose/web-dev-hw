@@ -1,3 +1,3 @@
 # Test Readme File
 
-[course notes](. / Notes.txt)
+[course notes](./Notes.txt)
