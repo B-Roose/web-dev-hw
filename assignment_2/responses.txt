@@ -1,0 +1,6 @@
+# Assignment Responses
+
+* One method of how data is transferred on the internet is through fiber optic cables. Fiber optics are essentially glass 'wires' that are designed to totally, internally reflect light (meaning the light is never transmitted through the walls of the fiber, only through it's two ends). Binary data is transmitted by pulses of light through the cable and interpreted back into binary.
+* The relationship between IP address and DNS is that DNS uses a 'place name' address, such as www.example.com, to retrieve the corresponding IP address.
+* A cookie is data packet that is sent by an internet server to a web browser that is then sent back by the browser every time it accesses the server. It is used to identify the user and/or track their use to the server.
+The three basic parts of a URL are the protocol, domain and path.
